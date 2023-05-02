@@ -190,6 +190,10 @@ img{
     background: transparent !important;
     color: var(--brand-color) !important;  
 }
+
+.apply-button{
+    text-align: center !important;
+}
 /* ####################### Button End ####################### */
 
 /* ####################### Nav Bar Start #######################  */
@@ -1599,7 +1603,7 @@ nav .container .navbar .child:hover .js-sub-menu{
     }
   
     .dropdown__group{
-      padding: 2rem 1rem;
+      padding: 1rem 1rem;
       align-content: baseline;
       row-gap: 1.2rem;
     }

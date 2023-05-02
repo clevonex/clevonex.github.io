@@ -1754,7 +1754,7 @@ nav .container .navbar .child:hover .js-sub-menu{
     }
   
     .dropdown__group{
-      padding: 2rem 1rem;
+      padding: 1rem 1rem;
       align-content: baseline;
       row-gap: 1.2rem;
     }
