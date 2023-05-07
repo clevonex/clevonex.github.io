@@ -134,6 +134,7 @@ img{
     border-color: var(--brand-color);
     transition: all .50s ease;
     cursor: pointer;
+    color: var(--text-color-main);
 }
 
 .btn-brand:hover, .btn-home:hover{
