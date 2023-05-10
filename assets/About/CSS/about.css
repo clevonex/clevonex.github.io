@@ -341,7 +341,7 @@ section .container .home-text p{
     position: relative;
     width: 100%;
     display: grid;
-    grid-template-columns: repeat(4, 1fr);
+    grid-template-columns: repeat(3, 1fr);
     align-items: center;
     gap: 2rem;
 }
@@ -935,7 +935,7 @@ footer .copyrights{
 
     /* ####################### Our Highlights ####################### */
     .highlights-main-boxes{
-        grid-template-columns: repeat(2, 1fr);
+        grid-template-columns: repeat(3, 1fr);
     }
 
     /* ####################### Our Story ####################### */
